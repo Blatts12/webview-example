@@ -13,7 +13,8 @@ import { WebviewWrapper } from "./components/WebviewWrapper";
 SplashScreen.preventAutoHideAsync();
 
 // iOS Simulator localhost
-const BASE_URL = "http://127.0.0.1:3000";
+// const BASE_URL = "http://127.0.0.1:3000";
+const BASE_URL = "https://webcammictest.com/";
 
 // Android Emulator localhost
 // const BASE_URL = "http://10.0.2.2:3000";
